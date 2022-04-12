@@ -16,12 +16,12 @@
   https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api
 
 ## Código de conduta
-* [CODE_OF_CONDUCT](https://github.com/maicontibola/GitHubXplorer/blob/main/CODE_OF_CONDUCT.md).
+* [CODE_OF_CONDUCT](https://github.com/UTFPR-SL/GitHubXplorer/blob/main/CODE_OF_CONDUCT.md).
 
 ## Licença
-  * [LICENSE](https://github.com/maicontibola/GitHubXplorer/blob/main/LICENSE).
+  * [LICENSE](https://github.com/UTFPR-SL/GitHubXplorer/blob/main/LICENSE).
 
 ## Contribuções
-* [CONTRIBUTING](https://github.com/maicontibola/GitHubXplorer/blob/main/CONTRIBUTING.md).
+* [CONTRIBUTING](https://github.com/UTFPR-SL/GitHubXplorer/blob/main/CONTRIBUTING.md).
 
 
