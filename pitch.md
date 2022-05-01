@@ -23,7 +23,7 @@
   * Você tem algum contato no projeto? Quem? Não
   * Quem são os principais contribuidores do projeto (encontre)?
   
-  https://github.com/orgs/scipy/people 
+  Members: https://github.com/orgs/scipy/people 
   
   Steering council: https://scipy.org/about/
 
