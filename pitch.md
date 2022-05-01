@@ -45,13 +45,13 @@
 ### Configuração do espaço de trabalho
 
   * Existem tutoriais, diretrizes ou perguntas frequentes sobre como configurar o espaço de trabalho local? https://scipy.github.io/devdocs/index.html
-  * A comunidade recomenda algum sistema operacional ou IDE específico? Quais?
+  * A comunidade recomenda algum sistema operacional ou IDE específico? Quais? A documentação recomenda o uso do Conda para a instalação do SciPy. O Conda funciona nos sistemas operacionas: Windows, Mac e Linux. No entanto, a instalação procedimenta o uso nos sistemas: Ubuntu and Debian, Fedora e Mac.
 
 ### Documentação do código
   
    * Existe algum tipo de documentação de código disponível? Onde? Sim: https://docs.scipy.org/doc/scipy/reference/
    * A arquitetura está documentada? Alguma coisa está aqui: http://scipy.github.io/devdocs/reference/index.html#scipy-api
-   * Existem políticas / diretrizes de padrões de código disponíveis? Onde?
+   * Existem políticas / diretrizes de padrões de código disponíveis? Onde? Existem, o código do contribuidor explica muitas boas práticas relacionadas ao projeto: https://scipy.github.io/devdocs/dev/contributor/contributor_toc.html
     
 ### Enviando sua contribuição 
 
