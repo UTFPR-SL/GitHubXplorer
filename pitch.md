@@ -3,7 +3,7 @@
 ### Recursos disponíveis (URLs)
 
   * Idioma principal usado: Inglês
-  * Outras tecnologias utilizadas (bancos de dados, frameworks, linguagens): NumPy, Python
+  * Outras tecnologias utilizadas (bancos de dados, frameworks, linguagens): NumPy, Anaconda
 
 ### Recursos disponíveis (URLs)
 
